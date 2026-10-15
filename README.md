@@ -411,36 +411,7 @@ During confirmed red-alert events, GPS and mobile signal degrade naturally. A **
 └─────────────┘     └───────────────┘
 ```
 
----
 
-## 10. Roadmap
-
-### Phase 1 — Ideation (Weeks 1–2) ← Current
-- [x] Problem definition and persona selection
-- [x] System architecture design
-- [x] Weekly premium model
-- [x] AI/ML strategy defined
-- [x] Anti-spoofing defense architecture
-- [x] Tech stack selection
-
-### Phase 2 — Build (Weeks 3–4)
-- [ ] Worker registration and onboarding flow
-- [ ] AI risk profiling engine (live)
-- [ ] Policy creation and management system
-- [ ] Live event monitoring with 5 disruption triggers
-- [ ] Automated claims pipeline
-- [ ] Worker and admin dashboards
-- [ ] 2-minute working demo video
-
-### Phase 3 — Scale (Weeks 5–6)
-- [ ] Full Trust Score Model implementation
-- [ ] DBSCAN fraud ring detection at scale
-- [ ] Instant payout simulation
-- [ ] LSTM demand forecasting model
-- [ ] Advanced analytics dashboard
-- [ ] Final pitch deck and 5-minute demo video
-
----
 
 ## 11. Business Model
 
@@ -465,16 +436,3 @@ Parametric insurance has 10× lower operational costs than traditional insurance
 
 ---
 
-## 12. Demo Video
-
-[Add your YouTube unlisted link here before submitting]
-
----
-
-## Team
-
-**Team Name:** [Mountain@Dew$!]
-
-**Members:** [Sompalli Pothish, Anish Balaji A, RamMohan M,K Tejas Reddy, Parv Manyam]
-
-Built for **DEVTrails 2026 Hackathon** — Guidewire
