@@ -352,7 +352,7 @@ During confirmed red-alert events, GPS and mobile signal degrade naturally. A **
 
 | Layer | Technology | Reason |
 |-------|-----------|--------|
-| Frontend | React + Tailwind CSS | Fast UI, component-based |
+| Frontend | Flutter/Dart | Fast UI, component-based |
 | Backend | Python FastAPI | Lightweight, ML-native |
 | Database | PostgreSQL | Reliable structured data |
 | AI / ML | Scikit-learn | Random Forest, Isolation Forest, DBSCAN |
@@ -360,7 +360,6 @@ During confirmed red-alert events, GPS and mobile signal degrade naturally. A **
 | Weather | OpenWeather API | Pin-code level data, reliable uptime |
 | Pollution | AQICN API | Free tier, global AQI coverage |
 | Payments | Razorpay test mode | Indian market, UPI native |
-| Deployment | Docker + AWS EC2 | Scalable from Phase 2 onward |
 
 ---
 
