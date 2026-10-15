@@ -16,9 +16,8 @@
 7. [Adversarial Defense & Anti-Spoofing Strategy](#7-adversarial-defense--anti-spoofing-strategy)
 8. [Tech Stack](#8-tech-stack)
 9. [System Architecture](#9-system-architecture)
-10. [Roadmap](#10-roadmap)
-11. [Business Model](#11-business-model)
-12. [Demo Video](#12-demo-video)
+10. [Business Model](#10-business-model)
+11. [Demo Video](#11-demo-video)
 
 ---
 
@@ -413,7 +412,7 @@ During confirmed red-alert events, GPS and mobile signal degrade naturally. A **
 
 
 
-## 11. Business Model
+## 10. Business Model
 
 **Revenue:** Weekly premiums from delivery workers (₹30–65/week)
 
@@ -435,4 +434,9 @@ Parametric insurance has 10× lower operational costs than traditional insurance
 - Future: Direct premium deduction from weekly platform payouts
 
 ---
+
+## 11.Demo Video 
+
+
+
 
